@@ -221,7 +221,7 @@ def main():
     wallet_name = 'your_wallet_name'  # Replace with your actual wallet name
     wallet = create_or_load_wallet(wallet_name)
 
-    current_version = "5.2.TEST"  # Current version of your app
+    current_version = "5.3.TEST"  # Current version of your app
 
     while True:
         display_menu()
